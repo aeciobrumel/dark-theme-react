@@ -1,8 +1,8 @@
-import { useTheme } from "../contexts/ThemeContext";
+// import { useTheme } from "../contexts/ThemeContext";
 import { ThemeSwitch } from "./ThemeSwitch";
 
 const Header = () => {
-    const themeCtx = useTheme();
+    // const themeCtx = useTheme();
 
     return (
         <header className=" p-5 fixed top-0 left-0 right-0 ">
